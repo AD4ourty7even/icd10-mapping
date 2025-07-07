@@ -1,0 +1,501 @@
+Row_ID,Original Diagnosis,ICD-10 Code,ICD-10 Description,Similarity Score
+48,"Unspecified asthma, uncomplicated",J45909,"Unspecified asthma, uncomplicated",1.0
+48,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+48,"Unspecified fall, initial encounter",W19XXXA,"Unspecified fall, initial encounter",1.0
+48,Accidental poisoning by hormones and synthetic substitutes,T38801S,"Poisoning by unspecified hormones and synthetic substitutes, accidental (unintentional), sequela",0.936
+48,Type 2 diabetes mellitus with hyperglycemia,E1165,Type 2 diabetes mellitus with hyperglycemia,1.0
+48,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+48,"Personal history, urinary (tract) infection",Z87440,Personal history of urinary (tract) infections,0.929
+48,Type 2 diabetes mellitus without complications,E119,Type 2 diabetes mellitus without complications,1.0
+48,"Backache, unspecified",M5450,"Low back pain, unspecified",0.559
+48,Personal history of peptic ulcer disease,Z8711,Personal history of peptic ulcer disease,1.0
+48,"Malignant neoplasm of tongue, unspecified",C029,"Malignant neoplasm of tongue, unspecified",1.0
+48,Long-term (current) use of insulin,Z794,Long term (current) use of insulin,0.996
+48,Do not resuscitate status,Z66,Do not resuscitate,0.912
+48,Hypovolemia,E861,Hypovolemia,1.0
+48,Unspecified psychosis,F29,Unspecified psychosis not due to a substance or known physiological condition,0.853
+48,"Anemia, unspecified",D649,"Anemia, unspecified",1.0
+48,Influenza with pneumonia,J09X1,Influenza due to identified novel influenza A virus with pneumonia,0.89
+48,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+48,"Acute kidney failure, unspecified",N179,"Acute kidney failure, unspecified",1.0
+48,Alkalosis,E873,Alkalosis,1.0
+48,"Urethral stricture, unspecified",N3592,"Unspecified urethral stricture, female",0.928
+48,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",0.852
+48,"Retention of urine, unspecified",R339,"Retention of urine, unspecified",1.0
+48,"Family history of malignant neoplasm of trachea, bronchus and lung",Z801,"Family history of malignant neoplasm of trachea, bronchus and lung",1.0
+48,"Cellulitis and abscess of hand, except fingers and thumb",L03019,Cellulitis of unspecified finger,0.819
+48,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",E1110,Type 2 diabetes mellitus with ketoacidosis without coma,0.841
+48,Unspecified acute appendicitis,K3580,Unspecified acute appendicitis,1.0
+48,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",Y848,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.984
+48,"Pneumonia, organism unspecified",J189,"Pneumonia, unspecified organism",0.994
+48,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+48,Other specified cardiac dysrhythmias,I498,Other specified cardiac arrhythmias,0.918
+48,"Major depressive disorder, single episode, unspecified",F329,"Major depressive disorder, single episode, unspecified",1.0
+48,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,S22008A,"Other fracture of unspecified thoracic vertebra, initial encounter for closed fracture",0.842
+48,"Hemorrhage of gastrointestinal tract, unspecified",K922,"Gastrointestinal hemorrhage, unspecified",0.968
+48,Lack of coordination,R278,Other lack of coordination,0.93
+48,"Urinary tract infection, site not specified",N390,"Urinary tract infection, site not specified",1.0
+48,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1169,Type 2 diabetes mellitus with other specified complication,0.88
+48,Poisoning by insulins and antidiabetic agents,T383X4A,"Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, undetermined, initial encounter",0.877
+48,Other and unspecified infection due to central venous catheter,T80218A,"Other infection due to central venous catheter, initial encounter",0.962
+48,History of fall,Z9181,History of falling,0.904
+48,Family history of malignant neoplasm of other genital organs,Z8049,Family history of malignant neoplasm of other genital organs,1.0
+48,"Iron deficiency anemia, unspecified",D509,"Iron deficiency anemia, unspecified",1.0
+48,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+48,Esophageal reflux,T85591D,"Other mechanical complication of esophageal anti-reflux device, subsequent encounter",0.867
+48,Unspecified place or not applicable,Y929,Unspecified place or not applicable,1.0
+48,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",E1101,Type 2 diabetes mellitus with hyperosmolarity with coma,0.803
+48,Candidiasis of vulva and vagina,B3732,Chronic candidiasis of vulva and vagina,0.958
+48,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",E1169,Type 2 diabetes mellitus with other specified complication,0.808
+49,Unspecified hearing loss,H9190,"Unspecified hearing loss, unspecified ear",0.925
+49,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+49,"Arthropathy, unspecified, lower leg",M129,"Arthropathy, unspecified",0.846
+49,"Body Mass Index 32.0-32.9, adult",Z6832,"Body mass index [BMI] 32.0-32.9, adult",0.912
+49,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",E1169,Type 2 diabetes mellitus with other specified complication,0.895
+49,Other and unspecified angina pectoris,I209,"Angina pectoris, unspecified",0.955
+49,Examination of participant in clinical trial,Z006,Encounter for examination for normal comparison and control in clinical research program,0.607
+49,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+49,Long-term (current) use of insulin,Z794,Long term (current) use of insulin,0.996
+49,Coronary atherosclerosis of native coronary artery,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,0.834
+49,Personal history of other malignant neoplasm of skin,Z85828,Personal history of other malignant neoplasm of skin,1.0
+50,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+50,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,1.0
+50,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+50,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+50,"Body mass index (BMI) 32.0-32.9, adult",Z6832,"Body mass index [BMI] 32.0-32.9, adult",0.993
+50,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,I25119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,1.0
+50,Family history of ischemic heart disease and other diseases of the circulatory system,Z8249,Family history of ischemic heart disease and other diseases of the circulatory system,1.0
+50,"Nicotine dependence, unspecified, uncomplicated",F17200,"Nicotine dependence, unspecified, uncomplicated",1.0
+50,Presence of coronary angioplasty implant and graft,Z955,Presence of coronary angioplasty implant and graft,1.0
+50,Long term (current) use of antithrombotics/antiplatelets,Z7902,Long term (current) use of antithrombotics/antiplatelets,1.0
+50,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+50,Presence of aortocoronary bypass graft,Z951,Presence of aortocoronary bypass graft,1.0
+50,"Nicotine dependence, cigarettes, uncomplicated",F17210,"Nicotine dependence, cigarettes, uncomplicated",1.0
+51,"Body mass index (BMI) 35.0-35.9, adult",Z6835,"Body mass index [BMI] 35.0-35.9, adult",0.993
+51,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+51,Essential (primary) hypertension,I10,Essential (primary) hypertension,1.0
+51,Acute posthemorrhagic anemia,D62,Acute posthemorrhagic anemia,1.0
+51,Family history of ischemic heart disease and other diseases of the circulatory system,Z8249,Family history of ischemic heart disease and other diseases of the circulatory system,1.0
+51,Long term (current) use of aspirin,Z7982,Long term (current) use of aspirin,1.0
+51,"Unspecified asthma, uncomplicated",J45909,"Unspecified asthma, uncomplicated",1.0
+51,Non-ST elevation (NSTEMI) myocardial infarction,I214,Non-ST elevation (NSTEMI) myocardial infarction,1.0
+51,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+51,Atherosclerotic heart disease of native coronary artery without angina pectoris,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,1.0
+51,"Insomnia, unspecified",G4700,"Insomnia, unspecified",1.0
+51,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+52,Long term (current) use of insulin,Z794,Long term (current) use of insulin,1.0
+52,"Chronic kidney disease, unspecified",N189,"Chronic kidney disease, unspecified",1.0
+52,"Adverse effect of diagnostic agents, initial encounter",T508X5A,"Adverse effect of diagnostic agents, initial encounter",1.0
+52,"Anorexia nervosa, restricting type",F5001,"Anorexia nervosa, restricting type",1.0
+52,"Chronic obstructive pulmonary disease, unspecified",J449,"Chronic obstructive pulmonary disease, unspecified",1.0
+52,Long QT syndrome,I4581,Long QT syndrome,1.0
+52,Other shock,R578,Other shock,1.0
+52,Acute respiratory failure with hypoxia,J9601,Acute respiratory failure with hypoxia,1.0
+52,Other streptococcus as the cause of diseases classified elsewhere,B954,Other streptococcus as the cause of diseases classified elsewhere,1.0
+52,Other place in hospital as the place of occurrence of the external cause,Y92238,Other place in hospital as the place of occurrence of the external cause,1.0
+52,"Bipolar disorder, unspecified",F319,"Bipolar disorder, unspecified",1.0
+52,Personal history of self-harm,Z9152,Personal history of nonsuicidal self-harm,0.949
+52,Saddle embolus of pulmonary artery with acute cor pulmonale,I2602,Saddle embolus of pulmonary artery with acute cor pulmonale,1.0
+52,Sleep terrors [night terrors],F514,Sleep terrors [night terrors],1.0
+52,Other psychotic disorder not due to a substance or known physiological condition,F28,Other psychotic disorder not due to a substance or known physiological condition,1.0
+52,Acute kidney failure with tubular necrosis,N170,Acute kidney failure with tubular necrosis,1.0
+52,Unspecified mood [affective] disorder,F39,Unspecified mood [affective] disorder,1.0
+52,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",1.0
+52,Other specified hypothyroidism,E038,Other specified hypothyroidism,1.0
+52,Toxic encephalopathy,G928,Other toxic encephalopathy,0.952
+52,Resistance to other specified antimicrobial drug,Z1639,Resistance to other specified antimicrobial drug,1.0
+52,Hypokalemia,E876,Hypokalemia,1.0
+52,Borderline personality disorder,F603,Borderline personality disorder,1.0
+52,Tobacco use,Z720,Tobacco use,1.0
+52,"Cannabis dependence, uncomplicated",F1220,"Cannabis dependence, uncomplicated",1.0
+52,Dysphonia,R490,Dysphonia,1.0
+52,Type 2 diabetes mellitus with diabetic polyneuropathy,E1142,Type 2 diabetes mellitus with diabetic polyneuropathy,1.0
+52,Type 2 diabetes mellitus with foot ulcer,E11621,Type 2 diabetes mellitus with foot ulcer,1.0
+52,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+52,Enterocolitis due to Clostridium difficile,A0471,"Enterocolitis due to Clostridium difficile, recurrent",0.982
+52,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+52,"Adverse effect of unspecified antiepileptic and sedative-hypnotic drugs, initial encounter",T4275XA,"Adverse effect of unspecified antiepileptic and sedative-hypnotic drugs, initial encounter",1.0
+52,"Post-traumatic stress disorder, unspecified",F4310,"Post-traumatic stress disorder, unspecified",1.0
+52,"Dysphagia, oropharyngeal phase",R1312,"Dysphagia, oropharyngeal phase",1.0
+52,Acute and subacute hepatic failure with coma,K7201,Acute and subacute hepatic failure with coma,1.0
+52,"Food in respiratory tract, part unspecified causing asphyxiation, initial encounter",T17920A,"Food in respiratory tract, part unspecified causing asphyxiation, initial encounter",1.0
+52,Patient room in hospital as the place of occurrence of the external cause,Y92230,Patient room in hospital as the place of occurrence of the external cause,1.0
+52,Periapical abscess without sinus,K047,Periapical abscess without sinus,1.0
+52,"Nephropathy induced by other drugs, medicaments and biological substances",N1419,"Nephropathy induced by other drugs, medicaments and biological substances",1.0
+53,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y838,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1.0
+53,Compression of vein,I871,Compression of vein,1.0
+53,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,I9751,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,1.0
+53,Operating room of hospital as the place of occurrence of the external cause,Y92234,Operating room of hospital as the place of occurrence of the external cause,1.0
+53,Acute embolism and thrombosis of left iliac vein,I82422,Acute embolism and thrombosis of left iliac vein,1.0
+54,Other acute postoperative pain,G8918,Other acute postprocedural pain,0.847
+54,"Thrombocytopenia, unspecified",D696,"Thrombocytopenia, unspecified",1.0
+54,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+54,"Asthma, unspecified type, unspecified",J45909,"Unspecified asthma, uncomplicated",0.911
+54,Disorders of magnesium metabolism,E8340,"Disorders of magnesium metabolism, unspecified",0.982
+54,Long-term (current) use of aspirin,Z7982,Long term (current) use of aspirin,0.996
+54,Hypoxemia,R0902,Hypoxemia,1.0
+54,"Alopecia, unspecified",L639,"Alopecia areata, unspecified",0.893
+54,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+54,Secondary malignant neoplasm of bone and bone marrow,C7952,Secondary malignant neoplasm of bone marrow,0.983
+54,Percutaneous transluminal coronary angioplasty status,Z9861,Coronary angioplasty status,0.812
+54,"Accidental cut, puncture, perforation or hemorrhage during other specified medical care",L7612,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure,0.726
+54,Dissection of other artery,I7779,Dissection of other specified artery,0.976
+54,Septic shock,T8112XS,"Postprocedural septic shock, sequela",0.862
+54,Other digestive system complications,K9189,Other postprocedural complications and disorders of digestive system,0.92
+54,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+54,Nontoxic uninodular goiter,E049,"Nontoxic goiter, unspecified",0.918
+54,Coronary atherosclerosis of native coronary artery,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,0.834
+54,Severe sepsis,R6521,Severe sepsis with septic shock,0.885
+54,"Urinary tract infection, site not specified",N390,"Urinary tract infection, site not specified",1.0
+54,Malignant neoplasm of intrahepatic bile ducts,C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,0.942
+54,Impaired fasting glucose,R7301,Impaired fasting glucose,1.0
+54,Paralytic ileus,K560,Paralytic ileus,1.0
+54,Toxic encephalopathy,G928,Other toxic encephalopathy,0.952
+54,Disorders of phosphorus metabolism,E8339,Other disorders of phosphorus metabolism,0.979
+54,"Depressive disorder, not elsewhere classified",F339,"Major depressive disorder, recurrent, unspecified",0.796
+54,Other constipation,K5909,Other constipation,1.0
+54,"Accidental puncture or laceration during a procedure, not elsewhere classified",L7612,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure,0.845
+54,Septicemia due to escherichia coli [E. coli],A4151,Sepsis due to Escherichia coli [E. coli],0.807
+54,"Anemia, unspecified",D649,"Anemia, unspecified",1.0
+54,"Body Mass Index 40.0-44.9, adult",Z6841,"Body mass index [BMI] 40.0-44.9, adult",0.915
+54,Neoplasm related pain (acute) (chronic),G893,Neoplasm related pain (acute) (chronic),1.0
+54,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+54,Encounter for palliative care,Z515,Encounter for palliative care,1.0
+54,Esophageal reflux,T85591D,"Other mechanical complication of esophageal anti-reflux device, subsequent encounter",0.867
+54,Knee joint replacement,Z96659,Presence of unspecified artificial knee joint,0.68
+54,Personal history of tobacco use,Z87891,Personal history of nicotine dependence,0.81
+55,Encounter for immunization,Z23,Encounter for immunization,1.0
+55,Essential (primary) hypertension,I10,Essential (primary) hypertension,1.0
+55,Type 2 diabetes mellitus with unspecified complications,E118,Type 2 diabetes mellitus with unspecified complications,1.0
+55,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,B9681,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,1.0
+55,Other shock,R578,Other shock,1.0
+55,Personal history of other venous thrombosis and embolism,Z86718,Personal history of other venous thrombosis and embolism,1.0
+55,"Adverse effect of anticoagulants, initial encounter",T45515A,"Adverse effect of anticoagulants, initial encounter",1.0
+55,"Exposure to other specified factors, initial encounter",X58XXXA,"Exposure to other specified factors, initial encounter",1.0
+55,Long term (current) use of anticoagulants,Z7901,Long term (current) use of anticoagulants,1.0
+55,Non-ST elevation (NSTEMI) myocardial infarction,I214,Non-ST elevation (NSTEMI) myocardial infarction,1.0
+55,Atherosclerotic heart disease of native coronary artery without angina pectoris,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,1.0
+55,Old myocardial infarction,I252,Old myocardial infarction,1.0
+55,Cardiogenic shock,R570,Cardiogenic shock,1.0
+55,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+55,Other gastritis without bleeding,K2960,Other gastritis without bleeding,1.0
+55,"Heart failure, unspecified",I509,"Heart failure, unspecified",1.0
+55,"Disorientation, unspecified",R410,"Disorientation, unspecified",1.0
+55,Long term (current) use of antithrombotics/antiplatelets,Z7902,Long term (current) use of antithrombotics/antiplatelets,1.0
+55,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+55,Enterocolitis due to Clostridium difficile,A0471,"Enterocolitis due to Clostridium difficile, recurrent",0.982
+55,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+55,Paroxysmal atrial fibrillation,I480,Paroxysmal atrial fibrillation,1.0
+55,"Acute kidney failure, unspecified",N179,"Acute kidney failure, unspecified",1.0
+55,Unspecified place in hospital as the place of occurrence of the external cause,Y92239,Unspecified place in hospital as the place of occurrence of the external cause,1.0
+55,Gross hematuria,R310,Gross hematuria,1.0
+55,"Unspecified injury of urethra, initial encounter",S3730XA,"Unspecified injury of urethra, initial encounter",1.0
+56,Chronic total occlusion of coronary artery,I2582,Chronic total occlusion of coronary artery,1.0
+56,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+56,Long-term (current) use of insulin,Z794,Long term (current) use of insulin,0.996
+56,"Anemia, unspecified",D649,"Anemia, unspecified",1.0
+56,Background diabetic retinopathy,E133553,"Other specified diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",0.854
+56,Atrial fibrillation,I4891,Unspecified atrial fibrillation,0.911
+56,Coronary atherosclerosis of native coronary artery,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,0.834
+56,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",E1139,Type 2 diabetes mellitus with other diabetic ophthalmic complication,0.847
+57,Malignant neoplasm of left main bronchus,C3402,Malignant neoplasm of left main bronchus,1.0
+57,Other dysphagia,R1319,Other dysphagia,1.0
+57,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,B9562,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,1.0
+57,Encounter for immunization,Z23,Encounter for immunization,1.0
+57,Essential (primary) hypertension,I10,Essential (primary) hypertension,1.0
+57,"Candidiasis, unspecified",B379,"Candidiasis, unspecified",1.0
+57,"Chest pain, unspecified",R079,"Chest pain, unspecified",1.0
+57,Acute respiratory failure with hypoxia,J9601,Acute respiratory failure with hypoxia,1.0
+57,"Major depressive disorder, single episode, unspecified",F329,"Major depressive disorder, single episode, unspecified",1.0
+57,Heartburn,R12,Heartburn,1.0
+57,Esophageal obstruction,K222,Esophageal obstruction,1.0
+57,"Tachycardia, unspecified",R000,"Tachycardia, unspecified",1.0
+57,Other chronic pain,G8929,Other chronic pain,1.0
+57,Fibromyalgia,M797,Fibromyalgia,1.0
+57,Personal history of pneumonia (recurrent),Z8701,Personal history of pneumonia (recurrent),1.0
+57,Candidal stomatitis,B370,Candidal stomatitis,1.0
+57,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+57,Pneumonitis due to inhalation of food and vomit,J690,Pneumonitis due to inhalation of food and vomit,1.0
+57,"Dysphagia, unspecified",R1310,"Dysphagia, unspecified",1.0
+57,Malignant neoplasm of unspecified part of unspecified bronchus or lung,C3490,Malignant neoplasm of unspecified part of unspecified bronchus or lung,1.0
+57,"Sciatica, unspecified side",M5430,"Sciatica, unspecified side",1.0
+57,Malignant neoplasm of right main bronchus,C3401,Malignant neoplasm of right main bronchus,1.0
+57,"Other diseases of bronchus, not elsewhere classified",J9809,"Other diseases of bronchus, not elsewhere classified",1.0
+57,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+57,"Nicotine dependence, cigarettes, uncomplicated",F17210,"Nicotine dependence, cigarettes, uncomplicated",1.0
+58,Acute respiratory failure,J95821,Acute postprocedural respiratory failure,0.916
+58,Hemorrhage of rectum and anus,K625,Hemorrhage of anus and rectum,0.994
+58,"Personal history of noncompliance with medical treatment, presenting hazards to health",Z91198,Patient's noncompliance with other medical treatment and regimen for other reason,0.787
+58,"Body Mass Index 31.0-31.9, adult",Z6831,"Body mass index [BMI] 31.0-31.9, adult",0.916
+58,Delirium due to conditions classified elsewhere,F05,Delirium due to known physiological condition,0.913
+58,Other drugs and medicinal substances causing adverse effects in therapeutic use,T50995S,"Adverse effect of other drugs, medicaments and biological substances, sequela",0.846
+58,"Ventral, unspecified, hernia without mention of obstruction or gangrene",K439,Ventral hernia without obstruction or gangrene,0.936
+58,Physical restraints status,Z781,Physical restraint status,0.85
+58,Acute posthemorrhagic anemia,D62,Acute posthemorrhagic anemia,1.0
+58,"Body Mass Index 32.0-32.9, adult",Z6832,"Body mass index [BMI] 32.0-32.9, adult",0.912
+58,Acidosis,E8729,Other acidosis,0.942
+58,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+58,Other nonspecific abnormal serum enzyme levels,R748,Abnormal levels of other serum enzymes,0.947
+58,Anemia of other chronic disease,D638,Anemia in other chronic diseases classified elsewhere,0.951
+58,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,B965,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,1.0
+58,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",T8131XA,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",1.0
+58,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y848,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1.0
+58,"Fracture, cause unspecified",M8440XA,"Pathological fracture, unspecified site, initial encounter for fracture",0.79
+58,Unspecified place in hospital as the place of occurrence of the external cause,Y92239,Unspecified place in hospital as the place of occurrence of the external cause,1.0
+58,Peritoneal adhesions (postoperative) (postinfection),K660,Peritoneal adhesions (postprocedural) (postinfection),0.955
+58,Home accidents,V988XXS,"Other specified transport accidents, sequela",0.582
+58,Anal or rectal pain,K604,Rectal fistula,0.604
+58,Encounter for attention to colostomy,Z433,Encounter for attention to colostomy,1.0
+58,Candidiasis of other urogenital sites,B3749,Other urogenital candidiasis,0.931
+58,Disruption of external operation (surgical) wound,T8131XS,"Disruption of external operation (surgical) wound, not elsewhere classified, sequela",0.953
+58,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,B9562,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,1.0
+58,Malignant neoplasm of rectum,C20,Malignant neoplasm of rectum,1.0
+58,Hypopotassemia,E8351,Hypocalcemia,0.753
+58,"Constipation, unspecified",K5900,"Constipation, unspecified",1.0
+58,Secondary malignant neoplasm of other digestive organs,C7889,Secondary malignant neoplasm of other digestive organs,1.0
+58,"Chronic kidney disease, Stage III (moderate)",N1830,"Chronic kidney disease, stage 3 unspecified",0.931
+58,Abnormal coagulation profile,R791,Abnormal coagulation profile,1.0
+58,Personal history of antineoplastic chemotherapy,Z9221,Personal history of antineoplastic chemotherapy,1.0
+58,Laparoscopic surgical procedure converted to open procedure,Z5331,Laparoscopic surgical procedure converted to open procedure,1.0
+58,Intestinal infection due to Clostridium difficile,A0471,"Enterocolitis due to Clostridium difficile, recurrent",0.824
+58,Do not resuscitate,Z66,Do not resuscitate,1.0
+58,Other urogenital candidiasis,B3749,Other urogenital candidiasis,1.0
+58,Acute kidney failure with lesion of tubular necrosis,N170,Acute kidney failure with tubular necrosis,0.97
+58,Other nonspecific findings on examination of urine,R82998,Other abnormal findings in urine,0.855
+58,"Personal history of irradiation, presenting hazards to health",Z923,Personal history of irradiation,0.907
+58,Secondary malignant neoplasm of retroperitoneum and peritoneum,C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,1.0
+58,"Encephalopathy, unspecified",G9340,"Encephalopathy, unspecified",1.0
+58,Malignant neoplasm of anal canal,C211,Malignant neoplasm of anal canal,1.0
+58,Neoplasm related pain (acute) (chronic),G893,Neoplasm related pain (acute) (chronic),1.0
+58,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+58,Chronic diastolic (congestive) heart failure,I5032,Chronic diastolic (congestive) heart failure,1.0
+58,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, initial encounter",T83598A,"Infection and inflammatory reaction due to other prosthetic device, implant and graft in urinary system, initial encounter",0.995
+58,Iron deficiency anemia secondary to blood loss (chronic),D500,Iron deficiency anemia secondary to blood loss (chronic),1.0
+58,Hyposmolality and/or hyponatremia,E871,Hypo-osmolality and hyponatremia,0.927
+58,Malignant pleural effusion,J910,Malignant pleural effusion,1.0
+58,Chronic atrial fibrillation,I4820,"Chronic atrial fibrillation, unspecified",0.93
+58,Accidents occurring in unspecified place,V988XXD,"Other specified transport accidents, subsequent encounter",0.758
+58,"Other complications due to other vascular device, implant, and graft",Z95828,Presence of other vascular implants and grafts,0.826
+58,Anticoagulants causing adverse effects in therapeutic use,T45515S,"Adverse effect of anticoagulants, sequela",0.907
+58,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",Y836,"Removal of other organ (partial) (total) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.959
+58,Congenital hydronephrosis,Q620,Congenital hydronephrosis,1.0
+58,"Chronic kidney disease, stage 3 (moderate)",N1830,"Chronic kidney disease, stage 3 unspecified",0.956
+58,Calculus of ureter,N201,Calculus of ureter,1.0
+58,"Closed fracture of phalanx or phalanges of hand, unspecified",S62609A,"Fracture of unspecified phalanx of unspecified finger, initial encounter for closed fracture",0.89
+58,"Thrombocytopenia, unspecified",D696,"Thrombocytopenia, unspecified",1.0
+58,Other postoperative infection,T8149XD,"Infection following a procedure, other surgical site, subsequent encounter",0.757
+58,Severe sepsis with septic shock,R6521,Severe sepsis with septic shock,1.0
+58,Chronic diastolic heart failure,I5032,Chronic diastolic (congestive) heart failure,0.941
+58,Other malaise and fatigue,R5383,Other fatigue,0.822
+58,"Sepsis, unspecified organism",A419,"Sepsis, unspecified organism",1.0
+58,Acute respiratory failure with hypoxia,J9601,Acute respiratory failure with hypoxia,1.0
+58,Adult hypertrophic pyloric stenosis,K311,Adult hypertrophic pyloric stenosis,1.0
+58,Diverticulosis of colon (without mention of hemorrhage),K5730,Diverticulosis of large intestine without perforation or abscess without bleeding,0.815
+58,"Acute venous embolism and thrombosis of upper extremity, unspecified",I82609,Acute embolism and thrombosis of unspecified veins of unspecified upper extremity,0.946
+58,Other encephalopathy,G9349,Other encephalopathy,1.0
+58,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",1.0
+58,Pseudomonas infection in conditions classified elsewhere and of unspecified site,A498,Other bacterial infections of unspecified site,0.733
+58,Adrenal cortical steroids causing adverse effects in therapeutic use,F553,Abuse of steroids or hormones,0.742
+58,"Hypotension, unspecified",I959,"Hypotension, unspecified",1.0
+58,Personal history of pathologic fracture,Z87311,Personal history of (healed) other pathological fracture,0.895
+58,"Body mass index (BMI) 38.0-38.9, adult",Z6838,"Body mass index [BMI] 38.0-38.9, adult",0.992
+58,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",M89469,"Other hypertrophic osteoarthropathy, unspecified lower leg",0.788
+58,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",M19079,"Primary osteoarthritis, unspecified ankle and foot",0.759
+58,"Malignant neoplasm of anus, unspecified site",C210,"Malignant neoplasm of anus, unspecified",0.972
+58,Long-term (current) use of anticoagulants,Z7901,Long term (current) use of anticoagulants,0.996
+58,"Acute kidney failure, unspecified",N179,"Acute kidney failure, unspecified",1.0
+58,Encounter for palliative care,Z515,Encounter for palliative care,1.0
+58,"Congestive heart failure, unspecified",I5020,Unspecified systolic (congestive) heart failure,0.872
+58,Microscopic hematuria,R3129,Other microscopic hematuria,0.964
+58,Gross hematuria,R310,Gross hematuria,1.0
+58,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",0.852
+58,Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction,R6511,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,0.805
+58,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",Z85048,"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",0.962
+58,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",Y848,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.984
+58,Other artificial opening of urinary tract status,Z936,Other artificial openings of urinary tract status,0.964
+58,Unspecified protein-calorie malnutrition,E46,Unspecified protein-calorie malnutrition,1.0
+58,Other specified intestinal obstruction,K56691,Other complete intestinal obstruction,0.956
+58,Atrial fibrillation,I4891,Unspecified atrial fibrillation,0.911
+58,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+58,Unspecified intestinal obstruction,K56601,"Complete intestinal obstruction, unspecified as to cause",0.937
+58,"Multiple myeloma, without mention of having achieved remission",C9001,Multiple myeloma in remission,0.963
+58,"Other disorders of plasma-protein metabolism, not elsewhere classified",E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified",1.0
+58,Long term (current) use of anticoagulants,Z7901,Long term (current) use of anticoagulants,1.0
+58,"Tubulo-interstitial nephritis, not specified as acute or chronic",N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",1.0
+58,Other drug-induced pancytopenia,D61811,Other drug-induced pancytopenia,1.0
+58,"Postoperative shock, other",T882XXS,"Shock due to anesthesia, sequela",0.735
+58,"Infection following a procedure, initial encounter",T8140XA,"Infection following a procedure, unspecified, initial encounter",0.975
+58,Other adrenal hypofunction,E896,Postprocedural adrenocortical (-medullary) hypofunction,0.803
+58,"Osteoarthritis of knee, unspecified",M179,"Osteoarthritis of knee, unspecified",1.0
+58,"Body Mass Index 33.0-33.9, adult",Z6833,"Body mass index [BMI] 33.0-33.9, adult",0.916
+58,Disorders of phosphorus metabolism,E8339,Other disorders of phosphorus metabolism,0.979
+58,Defibrination syndrome,D65,Disseminated intravascular coagulation [defibrination syndrome],0.662
+58,Multiple myeloma not having achieved remission,C9000,Multiple myeloma not having achieved remission,1.0
+58,Other ureteric obstruction,S3719XS,"Other injury of ureter, sequela",0.799
+59,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1169,Type 2 diabetes mellitus with other specified complication,0.88
+59,Grand mal status,A58,Granuloma inguinale,0.399
+59,Unspecified infectious and parasitic diseases,B89,Unspecified parasitic disease,0.929
+59,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+59,"Encephalopathy, unspecified",G9340,"Encephalopathy, unspecified",1.0
+59,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+59,Benign neoplasm of cerebral meninges,D320,Benign neoplasm of cerebral meninges,1.0
+60,Hemorrhage complicating a procedure,D699,"Hemorrhagic condition, unspecified",0.765
+60,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",Y832,"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.91
+60,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+60,"Multiple myeloma, without mention of having achieved remission",C9001,Multiple myeloma in remission,0.963
+60,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+60,Personal history of antineoplastic chemotherapy,Z9221,Personal history of antineoplastic chemotherapy,1.0
+60,Atrial fibrillation,I4891,Unspecified atrial fibrillation,0.911
+60,Coronary atherosclerosis of native coronary artery,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,0.834
+61,"Acquired hemolytic anemia, unspecified",D599,"Acquired hemolytic anemia, unspecified",1.0
+61,"Pulmonary hypertension, unspecified",I2720,"Pulmonary hypertension, unspecified",1.0
+61,Chronic or unspecified duodenal ulcer with hemorrhage,K264,Chronic or unspecified duodenal ulcer with hemorrhage,1.0
+61,Acute posthemorrhagic anemia,D62,Acute posthemorrhagic anemia,1.0
+61,Atelectasis,J9811,Atelectasis,1.0
+61,Other and unspecified ovarian cyst,N83299,"Other ovarian cyst, unspecified side",0.915
+61,Acidosis,E8729,Other acidosis,0.942
+61,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+61,Physical restraint status,Z781,Physical restraint status,1.0
+61,"Myelodysplastic syndrome, unspecified",D469,"Myelodysplastic syndrome, unspecified",1.0
+61,Morbid (severe) obesity due to excess calories,E6601,Morbid (severe) obesity due to excess calories,1.0
+61,"Leukemia, unspecified not having achieved remission",C9590,"Leukemia, unspecified not having achieved remission",1.0
+61,Other secondary thrombocytopenia,D6959,Other secondary thrombocytopenia,1.0
+61,Metabolic syndrome,E8881,Metabolic syndrome,1.0
+61,Long term (current) use of insulin,Z794,Long term (current) use of insulin,1.0
+61,Essential (primary) hypertension,I10,Essential (primary) hypertension,1.0
+61,Personal history of other venous thrombosis and embolism,Z86718,Personal history of other venous thrombosis and embolism,1.0
+61,"Pure hypercholesterolemia, unspecified",E7800,"Pure hypercholesterolemia, unspecified",1.0
+61,Other overlap syndromes,M351,Other overlap syndromes,1.0
+61,Other pancytopenia,D61818,Other pancytopenia,1.0
+61,Resistance to penicillins,Z1611,Resistance to penicillins,1.0
+61,"Herpesviral infection, unspecified",B009,"Herpesviral infection, unspecified",1.0
+61,Do not resuscitate,Z66,Do not resuscitate,1.0
+61,"Depressive disorder, not elsewhere classified",F339,"Major depressive disorder, recurrent, unspecified",0.796
+61,Hypokalemia,E876,Hypokalemia,1.0
+61,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,B961,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,1.0
+61,Other myelodysplastic syndromes,D46Z,Other myelodysplastic syndromes,1.0
+61,"Pleural effusion, not elsewhere classified",J90,"Pleural effusion, not elsewhere classified",1.0
+61,Anemia in neoplastic disease,D630,Anemia in neoplastic disease,1.0
+61,Neoplasm related pain (acute) (chronic),G893,Neoplasm related pain (acute) (chronic),1.0
+61,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+61,Chronic diastolic (congestive) heart failure,I5032,Chronic diastolic (congestive) heart failure,1.0
+61,"Splenomegaly, not elsewhere classified",R161,"Splenomegaly, not elsewhere classified",1.0
+61,"Unspecified asthma, uncomplicated",J45909,"Unspecified asthma, uncomplicated",1.0
+61,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+61,Personal history of malignant neoplasm of breast,Z853,Personal history of malignant neoplasm of breast,1.0
+61,Chronic myeloproliferative disease,D471,Chronic myeloproliferative disease,1.0
+61,"Thrombocytopenia, unspecified",D696,"Thrombocytopenia, unspecified",1.0
+61,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+61,Dehydration,E860,Dehydration,1.0
+61,Severe sepsis with septic shock,R6521,Severe sepsis with septic shock,1.0
+61,Type 2 diabetes mellitus without complications,E119,Type 2 diabetes mellitus without complications,1.0
+61,"Chronic obstructive pulmonary disease, unspecified",J449,"Chronic obstructive pulmonary disease, unspecified",1.0
+61,"Sepsis, unspecified organism",A419,"Sepsis, unspecified organism",1.0
+61,Acute respiratory failure with hypoxia,J9601,Acute respiratory failure with hypoxia,1.0
+61,"Radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",Y842,"Radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1.0
+61,"Myelodysplastic disease, not classified",C946,"Myelodysplastic disease, not elsewhere classified",0.991
+61,"Adverse effect of drugs affecting uric acid metabolism, initial encounter",T504X5A,"Adverse effect of drugs affecting uric acid metabolism, initial encounter",1.0
+61,Acute on chronic diastolic (congestive) heart failure,I5033,Acute on chronic diastolic (congestive) heart failure,1.0
+61,Personal history of irradiation,Z923,Personal history of irradiation,1.0
+61,Other emphysema,J438,Other emphysema,1.0
+61,Pure hypercholesterolemia,E7800,"Pure hypercholesterolemia, unspecified",0.946
+61,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",K259,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",1.0
+61,Hypertensive heart disease with heart failure,I110,Hypertensive heart disease with heart failure,1.0
+61,"Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter",T451X5A,"Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter",1.0
+61,Localized skin eruption due to drugs and medicaments taken internally,L271,Localized skin eruption due to drugs and medicaments taken internally,1.0
+61,"Anemia, unspecified",D649,"Anemia, unspecified",1.0
+61,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+61,"Acute kidney failure, unspecified",N179,"Acute kidney failure, unspecified",1.0
+61,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,E790,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,1.0
+61,Hemoglobinuria,R823,Hemoglobinuria,1.0
+61,"Body mass index (BMI) 40.0-44.9, adult",Z6841,"Body mass index [BMI] 40.0-44.9, adult",0.994
+61,"Body mass index (BMI) 33.0-33.9, adult",Z6833,"Body mass index [BMI] 33.0-33.9, adult",0.992
+61,Hypoxemia,R0902,Hypoxemia,1.0
+61,"Hypothyroidism, unspecified",E039,"Hypothyroidism, unspecified",1.0
+61,"Major depressive disorder, single episode, unspecified",F329,"Major depressive disorder, single episode, unspecified",1.0
+61,Obstructive sleep apnea (adult) (pediatric),G4733,Obstructive sleep apnea (adult) (pediatric),1.0
+61,Infarction of spleen,D735,Infarction of spleen,1.0
+61,Nonalcoholic steatohepatitis (NASH),K7581,Nonalcoholic steatohepatitis (NASH),1.0
+61,Coalworker's pneumoconiosis,J60,Coalworker's pneumoconiosis,1.0
+61,"Hematuria, unspecified",R319,"Hematuria, unspecified",1.0
+61,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+61,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",E1169,Type 2 diabetes mellitus with other specified complication,0.88
+61,"Urinary tract infection, site not specified",N390,"Urinary tract infection, site not specified",1.0
+61,Pneumonitis due to inhalation of food and vomit,J690,Pneumonitis due to inhalation of food and vomit,1.0
+61,Tumor lysis syndrome,E883,Tumor lysis syndrome,1.0
+61,Other disorders of phosphorus metabolism,E8339,Other disorders of phosphorus metabolism,1.0
+61,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+61,"Coagulation defect, unspecified",D689,"Coagulation defect, unspecified",1.0
+61,Unspecified abdominal pain,R109,Unspecified abdominal pain,1.0
+61,Chronic pulmonary edema,J811,Chronic pulmonary edema,1.0
+62,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+62,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",Y836,"Removal of other organ (partial) (total) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.959
+62,Hemorrhage complicating a procedure,D699,"Hemorrhagic condition, unspecified",0.765
+62,"Macular degeneration (senile), unspecified",H3530,Unspecified macular degeneration,0.929
+62,Family history of malignant neoplasm of breast,Z803,Family history of malignant neoplasm of breast,1.0
+62,Unspecified acquired hypothyroidism,E039,"Hypothyroidism, unspecified",0.938
+62,Cataract extraction status,Z9849,"Cataract extraction status, unspecified eye",0.899
+62,Personal history of malignant neoplasm of breast,Z853,Personal history of malignant neoplasm of breast,1.0
+62,Other acute postoperative pain,G8918,Other acute postprocedural pain,0.847
+62,Acute posthemorrhagic anemia,D62,Acute posthemorrhagic anemia,1.0
+62,Malignant neoplasm of main bronchus,C3400,Malignant neoplasm of unspecified main bronchus,0.99
+62,Lens replaced by other means,T8529XS,"Other mechanical complication of intraocular lens, sequela",0.617
+62,Personal history of tobacco use,Z87891,Personal history of nicotine dependence,0.81
+62,Personal history of antineoplastic chemotherapy,Z9221,Personal history of antineoplastic chemotherapy,1.0
+62,Family history of malignant neoplasm of prostate,Z8042,Family history of malignant neoplasm of prostate,1.0
+62,"Other specified forms of effusion, except tuberculous",M2548,"Effusion, other site",0.699
+63,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+63,Personal history of Methicillin resistant Staphylococcus aureus,Z8614,Personal history of Methicillin resistant Staphylococcus aureus infection,0.991
+63,Disruption of external operation (surgical) wound,T8131XS,"Disruption of external operation (surgical) wound, not elsewhere classified, sequela",0.953
+63,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",Y832,"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.91
+63,Injury to thoracic aorta,S2509XD,"Other specified injury of thoracic aorta, subsequent encounter",0.903
+63,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,V29498D,"Other motorcycle driver injured in collision with other motor vehicles in traffic accident, subsequent encounter",0.891
+63,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",Y848,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.984
+63,"Mechanical complication of nervous system device, implant, and graft",T85695A,"Other mechanical complication of other nervous system device, implant or graft, initial encounter",0.946
+63,"Asthma, unspecified type, unspecified",J45909,"Unspecified asthma, uncomplicated",0.911
+63,Other postoperative infection,T8149XD,"Infection following a procedure, other surgical site, subsequent encounter",0.757
+63,Acute post-thoracotomy pain,G8912,Acute post-thoracotomy pain,1.0
+63,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,A4902,"Methicillin resistant Staphylococcus aureus infection, unspecified site",0.951
+63,Empyema without mention of fistula,T8183XS,"Persistent postprocedural fistula, sequela",0.677
+63,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",G43109,"Migraine with aura, not intractable, without status migrainosus",0.977
+63,Street and highway accidents,V988XXS,"Other specified transport accidents, sequela",0.639
+63,Cellulitis and abscess of trunk,L03319,"Cellulitis of trunk, unspecified",0.863
+63,"Personal history of surgery to heart and great vessels, presenting hazards to health",Y713,"Surgical instruments, materials and cardiovascular devices (including sutures) associated with adverse incidents",0.599
+63,"Other specified forms of effusion, except tuberculous",M2548,"Effusion, other site",0.699
+64,"Esophagitis, unspecified",K2090,"Esophagitis, unspecified without bleeding",0.837
+64,Acute respiratory failure,J95821,Acute postprocedural respiratory failure,0.916
+64,Other and unspecified Escherichia coli [E. coli],B9620,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,0.798
+64,"Leukocytosis, unspecified",Q844,Congenital leukonychia,0.668
+64,Hypoxemia,R0902,Hypoxemia,1.0
+64,Unspecified septicemia,A419,"Sepsis, unspecified organism",0.68
+64,Mixed acid-base balance disorder,E874,Mixed disorder of acid-base balance,0.947
+64,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",K264,Chronic or unspecified duodenal ulcer with hemorrhage,0.975
+64,"Alcohol abuse, unspecified",F10129,"Alcohol abuse with intoxication, unspecified",0.914
+64,Severe sepsis,R6521,Severe sepsis with septic shock,0.885
+64,"Urinary tract infection, site not specified",N390,"Urinary tract infection, site not specified",1.0
+64,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],R7402,Elevation of levels of lactic acid dehydrogenase [LDH],0.859
+64,Tobacco use disorder,Z720,Tobacco use,0.802
+64,Electrolyte and fluid disorders not elsewhere classified,E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified",0.902
+64,Diaphragmatic hernia without mention of obstruction or gangrene,K449,Diaphragmatic hernia without obstruction or gangrene,0.993
+64,Pneumonitis due to inhalation of food or vomitus,J690,Pneumonitis due to inhalation of food and vomit,0.985
+64,Salicylates causing adverse effects in therapeutic use,T39095S,"Adverse effect of salicylates, sequela",0.874
+64,"Intestinal infection due to other organism, not elsewhere classified",A088,Other specified intestinal infections,0.849
+64,Hyposmolality and/or hyponatremia,E871,Hypo-osmolality and hyponatremia,0.927
+64,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",K254,Chronic or unspecified gastric ulcer with hemorrhage,0.966
+65,"Peritonitis, unspecified",K659,"Peritonitis, unspecified",1.0
+65,"Chronic kidney disease, stage 3 (moderate)",N1830,"Chronic kidney disease, stage 3 unspecified",0.956
+65,Hepatorenal syndrome,K767,Hepatorenal syndrome,1.0
+65,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,I25118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,1.0
+65,Long term (current) use of insulin,Z794,Long term (current) use of insulin,1.0
+65,Other cirrhosis of liver,K7469,Other cirrhosis of liver,1.0
+65,Severe sepsis with septic shock,R6521,Severe sepsis with septic shock,1.0
+65,Ventilator associated pneumonia,J95851,Ventilator associated pneumonia,1.0
+65,Hypovolemic shock,R571,Hypovolemic shock,1.0
+65,Type 2 diabetes mellitus without complications,E119,Type 2 diabetes mellitus without complications,1.0
+65,Unspecified atrial fibrillation,I4891,Unspecified atrial fibrillation,1.0
+65,"Ileus, unspecified",K567,"Ileus, unspecified",1.0
+65,"Unspecified infection due to central venous catheter, initial encounter",T80219A,"Unspecified infection due to central venous catheter, initial encounter",1.0
+65,Unspecified atrial flutter,I4892,Unspecified atrial flutter,1.0
+65,"Other postprocedural shock, initial encounter",T8119XA,"Other postprocedural shock, initial encounter",1.0
+65,Acute posthemorrhagic anemia,D62,Acute posthemorrhagic anemia,1.0
+65,Other ascites,R188,Other ascites,1.0

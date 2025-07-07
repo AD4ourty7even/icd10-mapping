@@ -1,0 +1,172 @@
+Row_ID,Original Diagnosis,ICD-10 Code,ICD-10 Description,Similarity Score
+94,Early satiety,R6881,Early satiety,1.0
+94,Neoplasm related pain (acute) (chronic),G893,Neoplasm related pain (acute) (chronic),1.0
+94,Esophageal reflux,T85591D,"Other mechanical complication of esophageal anti-reflux device, subsequent encounter",0.867
+94,Embolism and thrombosis of other specified artery,I748,Embolism and thrombosis of other arteries,0.961
+94,"Other complications due to other vascular device, implant, and graft",Z95828,Presence of other vascular implants and grafts,0.826
+94,Personal history of tobacco use,Z87891,Personal history of nicotine dependence,0.81
+95,Grand mal status,A58,Granuloma inguinale,0.399
+95,Unspecified fall,W19XXXS,"Unspecified fall, sequela",0.812
+95,"Backache, unspecified",M5450,"Low back pain, unspecified",0.559
+95,Closed fracture of surgical neck of humerus,S42249A,"4-part fracture of surgical neck of unspecified humerus, initial encounter for closed fracture",0.922
+95,"Other and unspecified alcohol dependence, unspecified",F10229,"Alcohol dependence with intoxication, unspecified",0.874
+95,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+95,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+95,Alcohol withdrawal,F10230,"Alcohol dependence with withdrawal, uncomplicated",0.889
+95,Other psoriasis,L408,Other psoriasis,1.0
+96,Long-term (current) use of anticoagulants,Z7901,Long term (current) use of anticoagulants,0.996
+96,Tobacco use disorder,Z720,Tobacco use,0.802
+96,Cardiomegaly,I517,Cardiomegaly,1.0
+96,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",M1990,"Unspecified osteoarthritis, unspecified site",0.808
+96,Paroxysmal ventricular tachycardia,I479,"Paroxysmal tachycardia, unspecified",0.878
+96,Surgical or other procedure not carried out because of contraindication,Z5309,Procedure and treatment not carried out because of other contraindication,0.939
+96,Aortic valve disorders,I358,Other nonrheumatic aortic valve disorders,0.882
+96,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+96,Atrial fibrillation,I4891,Unspecified atrial fibrillation,0.911
+96,Postprocedural fever,R5082,Postprocedural fever,1.0
+96,Other cysts of jaws,M2749,Other cysts of jaw,0.912
+96,"Urinary tract infection, site not specified",N390,"Urinary tract infection, site not specified",1.0
+97,Atrial flutter,I4892,Unspecified atrial flutter,0.933
+97,Chronic systolic (congestive) heart failure,I5022,Chronic systolic (congestive) heart failure,1.0
+97,"Asthma, unspecified type, unspecified",J45909,"Unspecified asthma, uncomplicated",0.911
+97,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+97,Long-term (current) use of aspirin,Z7982,Long term (current) use of aspirin,0.996
+97,Personal history of malignant neoplasm of prostate,Z8546,Personal history of malignant neoplasm of prostate,1.0
+97,Unspecified atrial flutter,I4892,Unspecified atrial flutter,1.0
+97,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,1.0
+97,Rheumatic disorders of both mitral and tricuspid valves,I081,Rheumatic disorders of both mitral and tricuspid valves,1.0
+97,Percutaneous transluminal coronary angioplasty status,Z9861,Coronary angioplasty status,0.812
+97,Presence of prosthetic heart valve,Z952,Presence of prosthetic heart valve,1.0
+97,Occlusion and stenosis of left carotid artery,I6522,Occlusion and stenosis of left carotid artery,1.0
+97,Personal history of other lymphatic and hematopoietic neoplasms,Z8579,"Personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",0.881
+97,Family history of ischemic heart disease and other diseases of the circulatory system,Z8249,Family history of ischemic heart disease and other diseases of the circulatory system,1.0
+97,Chronic total occlusion of coronary artery,I2582,Chronic total occlusion of coronary artery,1.0
+97,Obstructive sleep apnea (adult) (pediatric),G4733,Obstructive sleep apnea (adult) (pediatric),1.0
+97,Presence of aortocoronary bypass graft,Z951,Presence of aortocoronary bypass graft,1.0
+97,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",C8199,"Hodgkin lymphoma, unspecified, extranodal and solid organ sites",0.854
+97,Personal history of antineoplastic chemotherapy,Z9221,Personal history of antineoplastic chemotherapy,1.0
+97,Atherosclerotic heart disease of native coronary artery without angina pectoris,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,1.0
+97,Unspecified essential hypertension,I10,Essential (primary) hypertension,0.889
+97,Coronary atherosclerosis of native coronary artery,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,0.834
+97,Do not resuscitate status,Z66,Do not resuscitate,0.912
+97,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+97,Other acquired absence of organ,Z9089,Acquired absence of other organs,0.941
+97,Hypertensive heart disease with heart failure,I110,Hypertensive heart disease with heart failure,1.0
+97,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",Z8673,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",1.0
+97,Aortocoronary bypass status,Z951,Presence of aortocoronary bypass graft,0.85
+97,"Gout, unspecified",M109,"Gout, unspecified",1.0
+97,"Personal history of irradiation, presenting hazards to health",Z923,Personal history of irradiation,0.907
+97,Long term (current) use of antithrombotics/antiplatelets,Z7902,Long term (current) use of antithrombotics/antiplatelets,1.0
+97,"Acquired absence of organ, genital organs",Z9079,Acquired absence of other genital organ(s),0.938
+97,"Coronary atherosclerosis of unspecified type of vessel, native or graft",I25759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris,0.767
+97,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+97,"Other acute and subacute forms of ischemic heart disease, other",I248,Other forms of acute ischemic heart disease,0.933
+97,Long-term (current) use of anticoagulants,Z7901,Long term (current) use of anticoagulants,0.996
+97,Heart valve replaced by transplant,Z954,Presence of other heart-valve replacement,0.81
+97,Personal history of hodgkin's disease,Z8571,Personal history of Hodgkin lymphoma,0.811
+97,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific skin eruption,1.0
+97,Presence of coronary angioplasty implant and graft,Z955,Presence of coronary angioplasty implant and graft,1.0
+97,Multiple involvement of mitral and aortic valves,I080,Rheumatic disorders of both mitral and aortic valves,0.805
+97,"Unspecified asthma, uncomplicated",J45909,"Unspecified asthma, uncomplicated",1.0
+97,Occlusion and stenosis of right carotid artery,I6521,Occlusion and stenosis of right carotid artery,1.0
+97,Aortic valve disorders,I358,Other nonrheumatic aortic valve disorders,0.882
+97,Personal history of Hodgkin lymphoma,Z8571,Personal history of Hodgkin lymphoma,1.0
+97,Personal history of tobacco use,Z87891,Personal history of nicotine dependence,0.81
+98,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+98,Encounter for immunization,Z23,Encounter for immunization,1.0
+98,Long term (current) use of antithrombotics/antiplatelets,Z7902,Long term (current) use of antithrombotics/antiplatelets,1.0
+98,Dissection of abdominal aorta,I7102,Dissection of abdominal aorta,1.0
+98,Non-ST elevation (NSTEMI) myocardial infarction,I214,Non-ST elevation (NSTEMI) myocardial infarction,1.0
+98,Long term (current) use of aspirin,Z7982,Long term (current) use of aspirin,1.0
+99,"Secondary cardiomyopathy, unspecified",I429,"Cardiomyopathy, unspecified",0.827
+99,Cardiac pacemaker in situ,Z950,Presence of cardiac pacemaker,0.825
+99,Accidents occurring in other specified places,V988XXD,"Other specified transport accidents, subsequent encounter",0.742
+99,Rheumatic tricuspid insufficiency,I071,Rheumatic tricuspid insufficiency,1.0
+99,Automatic implantable cardiac defibrillator in situ,Z95810,Presence of automatic (implantable) cardiac defibrillator,0.852
+99,"Chronic kidney disease, unspecified",N189,"Chronic kidney disease, unspecified",1.0
+99,Personal history of malignant neoplasm of kidney,Z85528,Personal history of other malignant neoplasm of kidney,0.99
+99,Rheumatic disorders of both mitral and tricuspid valves,I081,Rheumatic disorders of both mitral and tricuspid valves,1.0
+99,Family history of ischemic heart disease and other diseases of the circulatory system,Z8249,Family history of ischemic heart disease and other diseases of the circulatory system,1.0
+99,"Body Mass Index 32.0-32.9, adult",Z6832,"Body mass index [BMI] 32.0-32.9, adult",0.912
+99,Acquired absence of kidney,Z905,Acquired absence of kidney,1.0
+99,"Insomnia, unspecified",G4700,"Insomnia, unspecified",1.0
+99,Chronic passive congestion of liver,K761,Chronic passive congestion of liver,1.0
+99,"Anxiety state, unspecified",F419,"Anxiety disorder, unspecified",0.878
+99,Paroxysmal ventricular tachycardia,I479,"Paroxysmal tachycardia, unspecified",0.878
+99,"Gout, unspecified",M109,"Gout, unspecified",1.0
+99,"Adverse effect of unspecified antipsychotics and neuroleptics, sequela",T43505S,"Adverse effect of unspecified antipsychotics and neuroleptics, sequela",1.0
+99,Anuria and oliguria,R34,Anuria and oliguria,1.0
+99,Barrett's esophagus without dysplasia,K2270,Barrett's esophagus without dysplasia,1.0
+99,Renal agenesis and dysgenesis,Q602,"Renal agenesis, unspecified",0.821
+99,"Mechanical complication of other vascular device, implant, and graft",T82898S,"Other specified complication of vascular prosthetic devices, implants and grafts, sequela",0.884
+99,Home accidents,V988XXS,"Other specified transport accidents, sequela",0.582
+99,Other secondary pulmonary hypertension,I2729,Other secondary pulmonary hypertension,1.0
+99,Other left bundle branch block,I4519,Other right bundle-branch block,0.96
+99,Other specified misadventures during medical care,Y658,Other specified misadventures during surgical and medical care,0.908
+99,Long-term (current) use of aspirin,Z7982,Long term (current) use of aspirin,0.996
+99,Diseases of tricuspid valve,I078,Other rheumatic tricuspid valve diseases,0.865
+99,"Leukocytosis, unspecified",Q844,Congenital leukonychia,0.668
+99,Dilated cardiomyopathy,I420,Dilated cardiomyopathy,1.0
+99,Personal history of other venous thrombosis and embolism,Z86718,Personal history of other venous thrombosis and embolism,1.0
+99,Cardiomyopathy due to drug and external agent,I427,Cardiomyopathy due to drug and external agent,1.0
+99,"Nausea with vomiting, unspecified",R112,"Nausea with vomiting, unspecified",1.0
+99,Do not resuscitate,Z66,Do not resuscitate,1.0
+99,"Paranoid type schizophrenia, chronic",F200,Paranoid schizophrenia,0.882
+99,"Depressive disorder, not elsewhere classified",F339,"Major depressive disorder, recurrent, unspecified",0.796
+99,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",0.878
+99,Other chronic pulmonary heart diseases,I2789,Other specified pulmonary heart diseases,0.919
+99,Nonrheumatic tricuspid (valve) insufficiency,I361,Nonrheumatic tricuspid (valve) insufficiency,1.0
+99,"Obesity, unspecified",E669,"Obesity, unspecified",1.0
+99,Iron deficiency anemia secondary to blood loss (chronic),D500,Iron deficiency anemia secondary to blood loss (chronic),1.0
+99,Hyposmolality and/or hyponatremia,E871,Hypo-osmolality and hyponatremia,0.927
+99,"Anxiety disorder, unspecified",F419,"Anxiety disorder, unspecified",1.0
+99,Fitting and adjustment of cardiac pacemaker,Z45018,Encounter for adjustment and management of other part of cardiac pacemaker,0.804
+99,Undiagnosed cardiac murmurs,R010,Benign and innocent cardiac murmurs,0.876
+99,Other and unspecified hyperlipidemia,E7849,Other hyperlipidemia,0.946
+99,Personal history of other malignant neoplasm of kidney,Z85528,Personal history of other malignant neoplasm of kidney,1.0
+99,"Body Mass Index 27.0-27.9, adult",Z6827,"Body mass index [BMI] 27.0-27.9, adult",0.916
+99,"Paranoid type schizophrenia, unspecified",F200,Paranoid schizophrenia,0.877
+99,Acute respiratory failure with hypoxia,J9601,Acute respiratory failure with hypoxia,1.0
+99,Acute on chronic systolic (congestive) heart failure,I5023,Acute on chronic systolic (congestive) heart failure,1.0
+99,Acute on chronic systolic heart failure,I5023,Acute on chronic systolic (congestive) heart failure,0.943
+99,Other ascites,R188,Other ascites,1.0
+99,Mechanical complication of automatic implantable cardiac defibrillator,Z95810,Presence of automatic (implantable) cardiac defibrillator,0.866
+99,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",1.0
+99,Other cardiomyopathies,I428,Other cardiomyopathies,1.0
+99,Pulmonary collapse,J9819,Other pulmonary collapse,0.956
+99,"Hypotension, unspecified",I959,"Hypotension, unspecified",1.0
+99,Paranoid schizophrenia,F200,Paranoid schizophrenia,1.0
+99,"Anemia, unspecified",D649,"Anemia, unspecified",1.0
+99,Gastro-esophageal reflux disease without esophagitis,K219,Gastro-esophageal reflux disease without esophagitis,1.0
+99,"Acute kidney failure, unspecified",N179,"Acute kidney failure, unspecified",1.0
+99,Other disorders of bilirubin metabolism,E806,Other disorders of bilirubin metabolism,1.0
+99,Encounter for palliative care,Z515,Encounter for palliative care,1.0
+99,"Congestive heart failure, unspecified",I5020,Unspecified systolic (congestive) heart failure,0.872
+99,Hyperkalemia,E875,Hyperkalemia,1.0
+99,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",0.852
+99,Palpitations,R002,Palpitations,1.0
+99,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",Y848,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.984
+99,Barrett's esophagus,K22719,"Barrett's esophagus with dysplasia, unspecified",0.888
+99,Mitral valve disorders,I3489,Other nonrheumatic mitral valve disorders,0.909
+99,Nonrheumatic mitral (valve) insufficiency,I340,Nonrheumatic mitral (valve) insufficiency,1.0
+99,Accidents occurring in residential institution,Z593,Problems related to living in residential institution,0.59
+99,Chronic systolic heart failure,I5022,Chronic systolic (congestive) heart failure,0.933
+99,"Major depressive disorder, single episode, unspecified",F329,"Major depressive disorder, single episode, unspecified",1.0
+99,Other specified forms of chronic ischemic heart disease,I2589,Other forms of chronic ischemic heart disease,0.978
+99,Presence of automatic (implantable) cardiac defibrillator,Z95810,Presence of automatic (implantable) cardiac defibrillator,1.0
+99,Acute and subacute hepatic failure without coma,K7200,Acute and subacute hepatic failure without coma,1.0
+99,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",Y831,"Surgical operation with implant of artificial internal device as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",0.968
+99,"Hematuria, unspecified",R319,"Hematuria, unspecified",1.0
+99,Cardiogenic shock,R570,Cardiogenic shock,1.0
+99,Personal history of nicotine dependence,Z87891,Personal history of nicotine dependence,1.0
+99,Mixed disorder of acid-base balance,E874,Mixed disorder of acid-base balance,1.0
+99,Acute embolism and thrombosis of deep veins of left upper extremity,I82622,Acute embolism and thrombosis of deep veins of left upper extremity,1.0
+99,"Other complications following infusion, transfusion and therapeutic injection, initial encounter",T8089XA,"Other complications following infusion, transfusion and therapeutic injection, initial encounter",1.0
+99,"Hyperlipidemia, unspecified",E785,"Hyperlipidemia, unspecified",1.0
+99,"Coagulation defect, unspecified",D689,"Coagulation defect, unspecified",1.0
+99,Encounter for adjustment and management of automatic implantable cardiac defibrillator,Z4502,Encounter for adjustment and management of automatic implantable cardiac defibrillator,1.0
+99,Esophageal reflux,T85591D,"Other mechanical complication of esophageal anti-reflux device, subsequent encounter",0.867
+99,Dysuria,R300,Dysuria,1.0
+99,Other forms of acute ischemic heart disease,I248,Other forms of acute ischemic heart disease,1.0
+99,Other primary cardiomyopathies,I428,Other cardiomyopathies,0.912
+99,Personal history of tobacco use,Z87891,Personal history of nicotine dependence,0.81
